@@ -2,9 +2,9 @@
 - 👀 I’m interested in  Java
 - 🌱 I’m currently learning  javaSpring redis kafka
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me .
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me  2720583780@qq.com
+- 😄 Pronouns: 
+- ⚡ Fun fact:
 
 <!---
 xiaoxie8023/xiaoxie8023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
