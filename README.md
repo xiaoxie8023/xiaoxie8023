@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoxie8023
 - 👀 I’m interested in  Java
-- 🌱 I’m currently learning  javaSpring redis kafka
+- 🌱 I’m currently learning  java javaSpring redis kafka
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  2720583780@qq.com
 - 😄 Pronouns: 
